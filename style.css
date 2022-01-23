@@ -398,3 +398,8 @@ body{
     background-color: rgb(255, 137, 27);
     margin-top: 2vw;
 }   
+@media screen and (max-width: 550px){
+    .content .contents{
+        width: 100%;
+    }
+}

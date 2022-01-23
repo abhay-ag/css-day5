@@ -401,7 +401,5 @@ body{
 @media screen and (max-width: 550px){
     .content .contents{
         flex-basis: 100%;
-        margin-right: 0;
-        margin-left: 2vw;
     }
 }

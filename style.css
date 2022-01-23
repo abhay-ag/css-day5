@@ -107,8 +107,8 @@ body{
 }
 .content .yellow{
     width: 0;
-    height: 5vw;
-    border: 1vw solid rgb(255, 137, 27);
+    height: 7vw;
+    border-left: 1vw solid rgb(255, 137, 27);
     position: absolute;
     left: 0;
     bottom: 100%;

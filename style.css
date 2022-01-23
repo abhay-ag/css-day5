@@ -310,7 +310,7 @@ body{
     height: 6vw;
 }
 .content .contents{
-    width: 60%;
+    width: 65%;
     height: inherit;
     display: flex;
     flex-direction: column;

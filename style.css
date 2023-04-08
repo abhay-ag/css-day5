@@ -45,6 +45,8 @@ body{
     bottom: 12vw;
     font-size: 1.2vw;
     border-bottom: 1px solid;
+    width:100%;
+    text-align: center
 }
 .content--row{
     flex-direction: row;
@@ -67,6 +69,8 @@ body{
     left: 50vw;
     transform: translate(-50%, 0);
     bottom: 13vw;
+    width: 100%;
+    text-align:center;
 }
 .cover--light{
     width: inherit;
